@@ -16,7 +16,7 @@
         <mxCell id="sHwY20u03nY0UIqkfmLN-7" value="Запись на приём" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCEEFF;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sHwY20u03nY0UIqkfmLN-8" value="График работы отдела" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCEEFF;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="sHwY20u03nY0UIqkfmLN-8" value="&lt;font color=&quot;#000000&quot;&gt;График работы отдела&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCEEFF;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="484" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sHwY20u03nY0UIqkfmLN-9" value="Контакты" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCEEFF;strokeColor=#36393d;" vertex="1" parent="1">
