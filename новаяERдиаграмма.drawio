@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Страница — 1" id="Feetv1NmW-jW-5myhWX-">
+    <mxGraphModel dx="1024" dy="1713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-1" target="RBoqL-KpNlwkgGDFapnS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-1" value="Игрок" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="44" y="-589" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-7" target="RBoqL-KpNlwkgGDFapnS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-7" value="Запускает игру" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="104" y="-574" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-10" target="RBoqL-KpNlwkgGDFapnS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-10" target="RBoqL-KpNlwkgGDFapnS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-10" target="RBoqL-KpNlwkgGDFapnS-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-10" value="Выбирает опцию" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-574" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-12" target="RBoqL-KpNlwkgGDFapnS-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-12" value="Выбирает неделю в режиме истории" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="379" y="-629" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-13" target="RBoqL-KpNlwkgGDFapnS-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-13" value="Выбирает уровень в режиме фриплей" style="ellipse;whiteSpace=wrap;html=1;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="379" y="-519" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-14" target="RBoqL-KpNlwkgGDFapnS-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-14" target="RBoqL-KpNlwkgGDFapnS-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-14" target="RBoqL-KpNlwkgGDFapnS-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-14" target="RBoqL-KpNlwkgGDFapnS-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-14" target="RBoqL-KpNlwkgGDFapnS-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-14" value="Открывает меню настроек" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-629" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-15" value="Просматривает авторов мода" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-519" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-90" value="Меняет управление" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="114" y="-629" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-91" value="Меняет качество графики" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="204" y="-679" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-92" value="Меняет офсеты начала песни" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="294" y="-629" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-93" value="Меняет ФПС" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="274" y="-669" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-94" value="Включает\выключает спец.режимы" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="134" y="-669" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-102" target="RBoqL-KpNlwkgGDFapnS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-102" target="RBoqL-KpNlwkgGDFapnS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-102" value="Выбирает режим игры" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="364" y="-581.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-107" target="RBoqL-KpNlwkgGDFapnS-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-107" value="Выбирает сложность уровня" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="474" y="-574" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-110" target="RBoqL-KpNlwkgGDFapnS-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-110" target="RBoqL-KpNlwkgGDFapnS-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-110" target="RBoqL-KpNlwkgGDFapnS-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-110" target="RBoqL-KpNlwkgGDFapnS-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-110" value="Начинает играть" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="564" y="-586.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-112" value="Нажимает клавиши во время игры" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="584" y="-629" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-114" value="Открывает меню паузы" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="714" y="-604" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-115" value="Проигрывает и попадает на экран проигрыша" style="ellipse;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="714" y="-544" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-116" value="Побеждает и переходит на следующий уровень" style="ellipse;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="584" y="-519" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
