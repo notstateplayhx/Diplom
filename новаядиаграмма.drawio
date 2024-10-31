@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; Chromium GOST) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Страница — 1" id="Feetv1NmW-jW-5myhWX-">
-    <mxGraphModel dx="1434" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,6 +137,36 @@
         </mxCell>
         <mxCell id="RBoqL-KpNlwkgGDFapnS-58" value="Выбор &quot;обратно&quot; (если песня была открыта через режим истории)" style="ellipse;whiteSpace=wrap;html=1;fontSize=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="560" y="-100" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-77" target="RBoqL-KpNlwkgGDFapnS-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-77" value="Запуск игры" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-455" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-79" target="RBoqL-KpNlwkgGDFapnS-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-79" value="Ассеты меню кэшируются в видеопамяти (только когда игрок в меню), для устранения долгих подгрузок" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="205" y="-470" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-81" target="RBoqL-KpNlwkgGDFapnS-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-81" value="Запуск песни" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RBoqL-KpNlwkgGDFapnS-83" target="RBoqL-KpNlwkgGDFapnS-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-83" value="Загрузка, во время которой в видеопамяти кэшируются ассеты, используемые только в выбранной игроком песни" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-370" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-85" value="Песня завершена = ассеты убираются из видеопамяти" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RBoqL-KpNlwkgGDFapnS-87" value="Игрок покинул меню = ассеты убираются из видеопамяти" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-465" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
